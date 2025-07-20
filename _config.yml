@@ -5,10 +5,10 @@
 # Site
 title: ZomBromine's Blog
 subtitle: ''
-description: ''
-keywords:
+description: 'A blog of a IT, sharing some IT tech'
+keywords: IT, minecraft
 author: ZomBromine
-language: zh-hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: "/img/* | /css/* | /tmp/*"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -96,6 +96,16 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
+
+search:
+  path: /tmp/search.xml
+  field: post
+  content: true
+  template: 
+
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
