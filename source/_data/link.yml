@@ -1,0 +1,38 @@
+- class_name: 1.技术支持
+  class_desc: 本网站的搭建由以下开源作者或平台提供技术支持
+  link_list: 
+    - name: Hexo 
+      link: https://hexo.io/zh-cn/
+      avatar: /img/hexo.png
+      descr: 快速、简单且强大的网站框架
+
+    - name: 帽子云 
+      link: https://maoziyun.com/
+      avatar: /img/maoziyun.png
+      descr: 本站部署平台
+
+- class_name: 2.Minecraft相关
+  class_desc: Minecraft技术细节（雾
+  link_list:
+    - name: NeoForge 官方文档
+      link: https://docs.neoforged.net/
+      avatar: /img/neoforge.png
+      descr: NeoForge 官方
+
+    - name: NeoForge 中文文档
+      link: https://neoforgedocs.zombrominedev.dpdns.org
+      avatar: /img/neoforge.png
+      descr: 由deepseek开源大模型翻译
+
+    - name: 雨云
+      link: https://rainyun.com
+      avatar: /img/rainyun.png
+      descr: Minecraft 服务器
+
+- class_name: 3.实用网站
+  class_desc: 一些实用的网站
+  link_list: 
+    - name: 文件快递柜 
+      link: https://send.terase.cn/
+      avatar: /img/terase.png
+      descr: 快捷传递文件
