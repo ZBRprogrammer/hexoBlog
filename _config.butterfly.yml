@@ -59,11 +59,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon:
-  small: /img/favicon.ico
-  medium: /img/favicon.ico
-  apple_touch_icon: /img/apple-touch-icon.png
-  safari_pinned_tab: /img/safari-pinned-tab.svg
+favicon: /img/logo.ico
 
 avatar:
   img: /img/logo.png
