@@ -59,11 +59,15 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon:
+  small: /img/favicon.ico
+  medium: /img/favicon.ico
+  apple_touch_icon: /img/apple-touch-icon.png
+  safari_pinned_tab: /img/safari-pinned-tab.svg
 
 avatar:
   img: /img/logo.png
-  effect: true
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
