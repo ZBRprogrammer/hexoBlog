@@ -975,7 +975,6 @@ The answer is : sigma
  - 使用`git log --stat`查看历史记录，发现有3次提交
  - 使用`git reset --hard 提交序列号`回滚提交。
  - 重复2次得到正确的`answer.txt`
-
 但是，如果你安装了`Sourcetree`，可以直接秒杀这一题：
 {% image ../../../img/NazoGame/level49-answer.png %}
 {% folding 答案 %}
@@ -1025,7 +1024,6 @@ __恭喜通关！__
  - 图片背景并非全部纯白
  - lsb!
  - 看似纯白非纯白,基本隐写不难筛,待我拿到函数式,谜题自然解开来.
-
 首先进入给出的网址：
 {% link 交流群网址,https://nazo.one-story.cn/q.html , ../../../img/link.png %}
 得到如下图片：
