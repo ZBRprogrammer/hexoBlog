@@ -1065,6 +1065,8 @@ inject:
     - <link rel="stylesheet" href="/css/cursor.css">
     - <link rel="stylesheet" href="/css/custom.css">
     - <link rel="stylesheet" href="/css/readPercent.css">
+    - <link rel="stylesheet" href="/css/wave.css">
+    - <link rel="stylesheet" href="/css/layout.css">
     - <span id="fps"></span>
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
@@ -1119,6 +1121,21 @@ CDN:
 
 # hexo-safego安全跳转插件
 # see https://blog.liushen.fun/posts/1dfd1f41/
+# tag-plugins-plus
+# see https://akilar.top/posts/615e2dec/
+tag_plugins:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  issues: false #issues标签依赖注入开关
+  link:
+    placeholder: /img/link.png #link_card标签默认的图标图片
+  CDN:
+    anima: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖
+    jquery: https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js #issues标签依赖
+    issues: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖
+    iconfont: //at.alicdn.com/t/font_2032782_8d5kxvn09md.js #参看https://akilar.top/posts/d2ebecef/
+    carousel: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js
+    tag_plugins_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css
 hexo_safego:
   # 基本功能设置
   general:
