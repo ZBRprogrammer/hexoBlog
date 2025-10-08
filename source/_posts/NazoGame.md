@@ -9,8 +9,8 @@ tags:
 	- Puzzle
 keywords: 
 	 - [NazoGame, puzzles]
-cover: ../../../img/NazoGame/home.png
-top_img: ../../../img/top_img.png
+cover: ../../../img/NazoGame/home.jpg
+top_img: ../../../img/top_img.jpg
 highlight_shrink: false
 ---
 
@@ -49,7 +49,7 @@ highlight_shrink: false
 {% image ../../../img/NazoGame/level1.jpg %}
 提示得很明显了吧……
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}在横线上输入`答案`即可{% endtip %}
 {% endfolding %}
 
@@ -60,7 +60,7 @@ highlight_shrink: false
 {% image ../../../img/NazoGame/level2.jpg %}
 同样是入门级
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}在横线上输入`入答案`即可{% endtip %}
 {% endfolding %}
 
@@ -72,7 +72,7 @@ highlight_shrink: false
 横线消失了！怎么进入下一关呢？
 想一想，要访问一个网站，除了让浏览器帮你跳转，还可以……
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}将网址`https://nazo.one-story.cn/nazo-3`中的`nazo-3`改为`nazo-4`即可{% endtip %}
 {% note info modern %}以后的题目都是这样操作{% endnote %}
 {% endfolding %}
@@ -106,7 +106,7 @@ highlight_shrink: false
 {% endtabs %}
 
 答案已经呼之欲出了！
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`level-five`{% endtip %}
 {% endfolding %}
 
@@ -125,7 +125,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 在`javascript`中，无意义数字与任何东西作比较都是`false`
 {% tip success %}`false`{% endtip %}
 {% endfolding %}
@@ -147,7 +147,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`H1Z1`（大小写不敏感）{% endtip %}
 {% endfolding %}
 
@@ -165,7 +165,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 题中字母均有且仅有竖直对称轴，按照字母表顺序排列
 {% tip success %}`OTU`（大小写不敏感）{% endtip %}
 {% endfolding %}
@@ -187,7 +187,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`superman`（大小写不敏感）{% endtip %}
 {% endfolding %}
 
@@ -211,7 +211,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 可以看到`style="background-color:#66CCFF`
 {% tip success %}`66CCFF`（大小写不敏感）{% endtip %}
 {% endfolding %}
@@ -234,7 +234,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`ERIH`（大小写不敏感）{% endtip %}
 {% endfolding %}
 
@@ -261,7 +261,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`Fantastic`（大小写不敏感）{% endtip %}
 {% endfolding %}
 
@@ -280,7 +280,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`Statue_of_Liberty`（大小写不敏感）{% endtip %}
 {% endfolding %}
 
@@ -305,7 +305,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 视频的BGM是`Windows Vista`的开机音乐，内部代号为`Longhorn`（好古早的东西）
 {% tip success %}`Longhorn`（大小写不敏感）{% endtip %}
 {% endfolding %}
@@ -325,7 +325,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 在`Assembly directive`中，`jump $`代表死循环，也就是`loop`
 {% tip success %}`loop`{% endtip %}
 {% endfolding %}
@@ -344,7 +344,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 在标签页中可以看到`answer: awesome`
 {% tip success %}`awesome`{% endtip %}
 {% endfolding %}
@@ -363,7 +363,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 《生活大爆炸》中，天才Sheldon提出了一个问题：最棒的数字是几？ 答案是唯一的。 天文学家Raj答道："5318008？" Sheldon解释道："错误答案。 最棒的数字应该是73。 这是因为，73是第21个质数，而它反过来说，37是第12个质数，而它再反过来21则是构成73的两个数字，也就是7和3相乘的结果。"
 {% tip success %}`number73`{% endtip %}
 {% endfolding %}
@@ -382,7 +382,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 数据库中，`Undo`的意思是撤销
 {% tip success %}`Undo`（大小写不敏感）{% endtip %}
 {% endfolding %}
@@ -402,7 +402,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}按下快捷键{% kbd Ctrl %} + {% kbd Z %}或者{% kbd command %} + {% kbd Z %}{% endtip %}
 {% endfolding %}
 
@@ -422,7 +422,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`she`{% endtip %}
 {% endfolding %}
 
@@ -432,7 +432,7 @@ highlight_shrink: false
 {% endfolding %}
 {% image ../../../img/NazoGame/level20.jpg %}
 没什么好提示的，自己搜一下。
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`moto_360`{% endtip %}
 {% endfolding %}
 
@@ -453,7 +453,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 这是国际象棋中骑士（`knight`）的行走方式
 {% tip success %}`knight`{% endtip %}
 {% endfolding %}
@@ -475,7 +475,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`TOBORRM`（大小写不敏感）{% endtip %}
 经查，TOBORRM 是一个Github上的账号，但是似乎没有什么贡献……
 {% endfolding %}
@@ -486,7 +486,7 @@ highlight_shrink: false
 {% endfolding %}
 {% image ../../../img/NazoGame/level23.jpg %}
 没什么好提示的，百度识图即可。
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`fsociety`{% endtip %}
 {% endfolding %}
 
@@ -510,7 +510,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`birthday`{% endtip %}
 {% endfolding %}
 
@@ -531,7 +531,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% image ../../../img/NazoGame/level25-console.jpg %}
 {% tip success %}`encode`{% endtip %}
 如果你点击旁边的`VM1727:3`，你会发现这一大段颜文字只是调用了一个js文件……
@@ -558,7 +558,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`feelings`{% endtip %}
 {% endfolding %}
 
@@ -580,7 +580,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% image ../../../img/NazoGame/level27-answer.jpg %}
 是吃豆人，英文是"pac-man"
 {% tip success %}`pac-man`{% endtip %}
@@ -603,7 +603,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`4008208820`{% endtip %}
 {% endfolding %}
 
@@ -613,7 +613,7 @@ highlight_shrink: false
 {% endfolding %}
 {% image ../../../img/NazoGame/level29.jpg %}
 很明显，上一关的数字$+2$即可
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`4008208822`{% endtip %}
 {% endfolding %}
 
@@ -634,7 +634,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 是“守望先锋”，英文名"Overwatch"
 {% tip success %}`overwatch`{% endtip %}
 {% endfolding %}
@@ -654,7 +654,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 第一位QQ用户（马化腾）的昵称`pony`
 {% tip success %}`pony`{% endtip %}
 {% endfolding %}
@@ -677,7 +677,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 解密得到`andriod`
 {% tip success %}`andriod`{% endtip %}
 什么，你说不对？恭喜你，你预判到了出题人的思路~
@@ -689,7 +689,7 @@ highlight_shrink: false
 {% endfolding %}
 {% image ../../../img/NazoGame/level33.jpg %}
 没什么好说的，把正确的单词填进去
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`android`{% endtip %}
 {% endfolding %}
 
@@ -702,7 +702,7 @@ highlight_shrink: false
  - 什么干扰，我还以为是网络不好呢。
  - 跟我的识别系统说去吧！
  - 图生啊能不能放过我这一次~
-{% folding 答案 %}
+{% folding 答案  %}
 百度识图得到`ljn`
 {% tip success %}`ljn`{% endtip %}
 {% endfolding %}
@@ -724,7 +724,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 你可以使用`localhost`、`127.0.0.1`或者在`ipconfig`中获取的`192.168.x.x`访问你自己的设备。很多开发者在本地测试就需要用到这些地址（比如本文的作者）
 {% tip success %}`localhost`{% endtip %}
 {% endfolding %}
@@ -743,7 +743,7 @@ highlight_shrink: false
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉落一个苹果`apple`
 {% tip success %}`apple`{% endtip %}
 {% endfolding %}
@@ -754,7 +754,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 {% image ../../../img/NazoGame/level37.jpg %}
 按照顺序将单词接上去即可
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`supercalifragilisticexpialidocious`{% endtip %}
 这真的是一个单词哦
 {% link 百度百科,https://baike.baidu.com/item/Supercalifragilisticexpialidocious/7507391 , ../../../img/link.png %}
@@ -777,7 +777,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 自己调用自己，这就是`递归`（`recursion`）
 {% tip success %}`recursion`{% endtip %}
 {% endfolding %}
@@ -788,7 +788,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 {% image ../../../img/NazoGame/level39.jpg %}
 不是我认识的图，直接扔给百度识图
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`trollface`{% endtip %}
 在《暴走漫画》中有他。
 {% endfolding %}
@@ -810,7 +810,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 第17号元素`氯`，英文`chlorine`
 {% tip success %}`chlorine`{% endtip %}
 {% endfolding %}
@@ -821,7 +821,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 {% image ../../../img/NazoGame/level41.jpg %}
 谷歌和华为的合作产品？
-{% folding 答案 %}
+{% folding 答案  %}
 这个合作项目叫做`Google Nexus 6P`
 {% tip success %}`nexus_6p`{% endtip %}
 {% endfolding %}
@@ -846,7 +846,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 `忍者神龟`，英文`ninja_turtle`
 {% tip success %}`ninja_turtle`{% endtip %}
 {% endfolding %}
@@ -857,7 +857,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 {% image ../../../img/NazoGame/level43.jpg %}
 黑？把图片拉下来，亮度和对比度拉满！
-{% folding 答案 %}
+{% folding 答案  %}
 {% image ../../../img/NazoGame/level43-answer.jpg %}
 {% tip success %}`Dee.html`{% endtip %}
 {% endfolding %}
@@ -879,7 +879,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`poker`{% endtip %}
 {% endfolding %}
 
@@ -900,7 +900,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 翻译结果：
 ```
 This is an example of leet at its finest
@@ -923,7 +923,7 @@ The answer is : sigma
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`sanic`{% endtip %}
 {% endfolding %}
 
@@ -933,7 +933,7 @@ The answer is : sigma
 {% endfolding %}
 {% image ../../../img/NazoGame/level47.jpg %}
 百度识图？
-{% folding 答案 %}
+{% folding 答案  %}
 `Excel2000`的彩蛋，具体见链接：
 {% link stinger,https://zhuanlan.zhihu.com/p/398713790 , ../../../img/link.png %}
 话说这种彩蛋是怎么被发现的啊啊啊啊啊（震惊）
@@ -958,7 +958,7 @@ The answer is : sigma
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 `时间戳`，英文`time stamp`
 {% tip success %}`time_stamp`{% endtip %}
 {% endfolding %}
@@ -977,7 +977,7 @@ The answer is : sigma
  - 重复2次得到正确的`answer.txt`
 但是，如果你安装了`Sourcetree`，可以直接秒杀这一题：
 {% image ../../../img/NazoGame/level49-answer.jpg %}
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`gitisawesome`{% endtip %}
 这操作确实"awesome"
 {% endfolding %}
@@ -998,7 +998,7 @@ The answer is : sigma
 <!-- endtab -->
 {% endtabs %}
 
-{% folding 答案 %}
+{% folding 答案  %}
 {% tip success %}`w1-2`{% endtip %}
 {% endfolding %}
 
@@ -1019,6 +1019,7 @@ __恭喜通关！__
 {% image ../../../img/NazoGame/level40.jpg %}
 {% image ../../../img/NazoGame/level50.jpg %}
 提取提示中`[]`框住的部分
+
  - `https://nazo.one-story.cn/q.html`
  - 有一个明显不是字母!
  - 图片背景并非全部纯白
@@ -1031,7 +1032,7 @@ __恭喜通关！__
 很明显左下角的`0`不是字母
 `lsb`指的是`最低有效位`（但我不知道有啥用）
 这种类隐写术直接上“刑具”：`Stegsolve`（安装方法自行上网搜索）
-将图片导入后点击{% kbd < %}，转到`Gray bits`
+将图片导入，转到`Gray bits`
 出现了！$y = 2x + 1$！
 按照$x$递增的顺序读取$x,y$坐标，得到`EXCELLENT`，输入下方得到群号`216526508`
 
