@@ -9,8 +9,8 @@ tags:
 	- Puzzle
 keywords: 
 	 - [NazoGame, puzzles]
-cover: ../../../img/NazoGame/home.jpg
-top_img: ../../../img/top_img.jpg
+cover: https://i.vgy.me/ukfZEx.jpg
+top_img: https://i.vgy.me/OtDqqe.jpg
 highlight_shrink: false
 ---
 
@@ -19,7 +19,7 @@ highlight_shrink: false
 这是一个创建于2016年8月2日的在线解谜游戏，已完结。打算做第二部的开发组也跑路了。
 但是这不妨碍它成为一个经典的系列谜题游戏。
 
-{% link Nazo Game ,https://nazo.one-story.cn/ , ../../../img/link.png %}
+{% link Nazo Game ,https://nazo.one-story.cn/ , https://i.vgy.me/2bEeMr.png %}
 
 ---
 
@@ -46,7 +46,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/nazo-1`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level1.jpg %}
+{% image https://i.vgy.me/aAiWuA.jpg %}
 提示得很明显了吧……
 
 {% folding 答案  %}
@@ -57,7 +57,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/nazo-2`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level2.jpg %}
+{% image https://i.vgy.me/Gv8brB.jpg %}
 同样是入门级
 
 {% folding 答案  %}
@@ -68,7 +68,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/nazo-3`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level3.jpg %}
+{% image https://i.vgy.me/jyC84X.jpg %}
 横线消失了！怎么进入下一关呢？
 想一想，要访问一个网站，除了让浏览器帮你跳转，还可以……
 
@@ -82,9 +82,9 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/nazo-4`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level4.jpg %}
+{% image https://i.vgy.me/L3dBhw.jpg %}
 怎么和上一关一样啊。轻送秒掉……了吗？
-{% image ../../../img/NazoGame/level5-fake.jpg %}
+{% image https://i.vgy.me/2KPEUY.jpg %}
 去左下角看看有多少和你一样的倒霉蛋~
 
 那这关怎么解呢？
@@ -101,7 +101,7 @@ highlight_shrink: false
 <!-- endtab -->
 <!-- tab 提示 4 -->
 {% tip key %}查看浏览器`Console Log`（或`控制台`）{% endtip %}
-{% image ../../../img/NazoGame/level4-console.jpg %}
+{% image https://i.vgy.me/3cThIj.jpg %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -114,7 +114,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/level-five`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level5.jpg %}
+{% image https://i.vgy.me/w6fVlM.jpg %}
 
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -134,7 +134,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/false`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level6.jpg %}
+{% image https://i.vgy.me/TOLmWr.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}4个字母的笔画{% endtip %}
@@ -155,7 +155,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/h1z1`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level7.jpg %}
+{% image https://i.vgy.me/13Nqqc.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}关注字形{% endtip %}
@@ -174,7 +174,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/otu`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level8.jpg %}
+{% image https://i.vgy.me/EeuUoG.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}某个影视形象{% endtip %}
@@ -195,7 +195,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/superman`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level9.jpg %}
+{% image https://i.vgy.me/lF71pP.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}颜色{% endtip %}
@@ -220,14 +220,14 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/66ccff`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level10.jpg %}
+{% image https://i.vgy.me/jGKHOD.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}反过来念{% endtip %}
 <!-- endtab -->
 <!-- tab 提示 2 -->
 {% tip key %}`开发人员工具`中的`Console Log`{% endtip %}
-{% image ../../../img/NazoGame/level10-console.jpg %}
+{% image https://i.vgy.me/0338vr.jpg %}
 <!-- endtab -->
 <!-- tab 提示 3 -->
 {% tip key %}反过来写{% endtip %}
@@ -246,18 +246,18 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/erih`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level11.jpg %}
+{% image https://i.vgy.me/kqIxxC.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}去过`Bilibili`吗？分享过视频吗？{% endtip %}
 <!-- endtab -->
 <!-- tab 提示 2 -->
 {% tip key %}官方提示中的`XX`（可能）不止一个，但都是很正经的国外网站，其中一个在2010年1月13日撤出中国市场{% endtip %}
-{% link 百度百科,https://baike.baidu.com/item/%E8%B0%B7%E6%AD%8C%E4%BA%8B%E4%BB%B6/6971355 , ../../../img/link.png %}
+{% link 百度百科,https://baike.baidu.com/item/%E8%B0%B7%E6%AD%8C%E4%BA%8B%E4%BB%B6/6971355 , https://i.vgy.me/2bEeMr.png %}
 <!-- endtab -->
 <!-- tab 提示 3 -->
 {% tip key %}由于`YouTube`上的搜索结果过于离谱，这里给出原视频链接（如果你可以打开的话）{% endtip %}
-{% link Video,https://www.youtube.com/watch?v=zNGQXChu9P8 , ../../../img/link.png %}
+{% link Video,https://www.youtube.com/watch?v=zNGQXChu9P8 , https://i.vgy.me/2bEeMr.png %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -269,14 +269,14 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/fantastic`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level12.jpg %}
+{% image https://i.vgy.me/w771HY.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}学习过地理的人应该能一眼丁真吧{% endtip %}
 <!-- endtab -->
 <!-- tab 提示 2 -->
 {% tip key %}打开某在线地图{% endtip %}
-{% image ../../../img/NazoGame/level12-map.jpg %}
+{% image https://i.vgy.me/YnH7DX.jpg %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -289,7 +289,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/statue_of_liberty`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level13.jpg %}
+{% image https://i.vgy.me/iOP1AN.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}这是一些单词的简写{% endtip %}
@@ -315,7 +315,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/longhorn`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level14.jpg %}
+{% image https://i.vgy.me/C2quTM.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}官方提示：`Assembly directive`（汇编伪指令）{% endtip %}
@@ -334,7 +334,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/loop`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level15.jpg %}
+{% image https://i.vgy.me/H20njt.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}谜底自在谜面中{% endtip %}
@@ -353,7 +353,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/awesome`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level16.jpg %}
+{% image https://i.vgy.me/s4C0UY.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}本题来源于某影视作品{% endtip %}
@@ -372,7 +372,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/number73`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level17.jpg %}
+{% image https://i.vgy.me/Pv1eyg.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}更精确地说，应该是`撤销`{% endtip %}
@@ -391,7 +391,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/undo`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level18.jpg %}
+{% image https://i.vgy.me/eZ7L7J.jpg %}
 又来一遍？不能还是`Undo`啊
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -410,14 +410,14 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/brainfuck`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level19.jpg %}
+{% image https://i.vgy.me/LUi844.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}再抬头看看？{% endtip %}
 <!-- endtab -->
 <!-- tab 提示 2 -->
 {% tip key %}`brainfuck`是一种编程语言（很神奇吧）{% endtip %}
-{% link wiki,https://wiki.mistarg.cn/index.php/Brainfuck/Ook/shortOok , ../../../img/link.png %}
+{% link wiki,https://wiki.mistarg.cn/index.php/Brainfuck/Ook/shortOok , https://i.vgy.me/2bEeMr.png %}
 尝试自己解码？
 <!-- endtab -->
 {% endtabs %}
@@ -430,7 +430,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/she`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level20.jpg %}
+{% image https://i.vgy.me/udiyaj.jpg %}
 没什么好提示的，自己搜一下。
 {% folding 答案  %}
 {% tip success %}`moto_360`{% endtip %}
@@ -440,7 +440,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/moto_360`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level21.jpg %}
+{% image https://i.vgy.me/Jn3tqA.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}$8 \times 8 = 64$，黑白相间的格子……{% endtip %}
@@ -462,7 +462,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/knight`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level22.jpg %}
+{% image https://i.vgy.me/31g8He.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}学过前端开发的应该知道{% endtip %}
@@ -484,7 +484,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/toborrm`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level23.jpg %}
+{% image https://i.vgy.me/04phFf.jpg %}
 没什么好提示的，百度识图即可。
 {% folding 答案  %}
 {% tip success %}`fsociety`{% endtip %}
@@ -494,7 +494,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/fsociety`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level24.jpg %}
+{% image https://i.vgy.me/qrQ23X.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}8个字母{% endtip %}
@@ -518,7 +518,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/birthday`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level25.jpg %}
+{% image https://i.vgy.me/oHVIg0.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}如果你见过一种有意义的乱码，你应该知道怎么做{% endtip %}
@@ -532,12 +532,12 @@ highlight_shrink: false
 {% endtabs %}
 
 {% folding 答案  %}
-{% image ../../../img/NazoGame/level25-console.jpg %}
+{% image https://i.vgy.me/pw7WRr.jpg %}
 {% tip success %}`encode`{% endtip %}
 如果你点击旁边的`VM1727:3`，你会发现这一大段颜文字只是调用了一个js文件……
 {% folding 小彩蛋 %}
 如果你的屏幕宽度过小，你会看到一行小字：`答题框被你无情的挤爆了。请在更大的屏幕上观看。`
-{% image ../../../img/NazoGame/level25-stinger.jpg %}
+{% image https://i.vgy.me/lQCPwK.jpg %}
 {% endfolding %}
 {% endfolding %}
 
@@ -545,7 +545,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/encode`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level26.jpg %}
+{% image https://i.vgy.me/ZXvBlM.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}十年之前~{% endtip %}
@@ -566,7 +566,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/feelings`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level27.jpg %}
+{% image https://i.vgy.me/RYq9nu.jpg %}
 别看到二进制码就急着翻译……
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -581,7 +581,7 @@ highlight_shrink: false
 {% endtabs %}
 
 {% folding 答案  %}
-{% image ../../../img/NazoGame/level27-answer.jpg %}
+{% image https://i.vgy.me/obC4Cc.jpg %}
 是吃豆人，英文是"pac-man"
 {% tip success %}`pac-man`{% endtip %}
 {% endfolding %}
@@ -590,7 +590,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/pac-man`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level28.jpg %}
+{% image https://i.vgy.me/Qe26q8.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}百度搜索一下{% endtip %}
@@ -611,7 +611,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/4008208820`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level29.jpg %}
+{% image https://i.vgy.me/U57Duv.jpg %}
 很明显，上一关的数字$+2$即可
 {% folding 答案  %}
 {% tip success %}`4008208822`{% endtip %}
@@ -621,7 +621,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/4008208822`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level30.jpg %}
+{% image https://i.vgy.me/vvdbOE.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}这不是16进制{% endtip %}
@@ -643,7 +643,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/overwatch`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level31.jpg %}
+{% image https://i.vgy.me/4oLWGe.jpg %}
 中国第一只企鹅的昵称？
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -663,7 +663,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/pony`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level32.jpg %}
+{% image https://i.vgy.me/TOnIxV.jpg %}
 凯撒密码？
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -687,7 +687,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/andriod`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level33.jpg %}
+{% image https://i.vgy.me/uvh1dj.jpg %}
 没什么好说的，把正确的单词填进去
 {% folding 答案  %}
 {% tip success %}`android`{% endtip %}
@@ -697,7 +697,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/android`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level34.jpg %}
+{% image https://i.vgy.me/HvOttU.jpg %}
 百度识图：
  - 什么干扰，我还以为是网络不好呢。
  - 跟我的识别系统说去吧！
@@ -711,7 +711,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/ljn`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level35.jpg %}
+{% image https://i.vgy.me/zNRcXb.jpg %}
 在互联网上找到自己？
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -733,7 +733,7 @@ highlight_shrink: false
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/localhost`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level36.jpg %}
+{% image https://i.vgy.me/Btl4QS.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}这个人是谁，搜一下{% endtip %}
@@ -752,19 +752,19 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/apple`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level37.jpg %}
+{% image https://i.vgy.me/gAu3vR.jpg %}
 按照顺序将单词接上去即可
 {% folding 答案  %}
 {% tip success %}`supercalifragilisticexpialidocious`{% endtip %}
 这真的是一个单词哦
-{% link 百度百科,https://baike.baidu.com/item/Supercalifragilisticexpialidocious/7507391 , ../../../img/link.png %}
+{% link 百度百科,https://baike.baidu.com/item/Supercalifragilisticexpialidocious/7507391 , https://i.vgy.me/2bEeMr.png %}
 {% endfolding %}
 
 ### 第三十八关
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/supercalifragilisticexpialidocious`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level38.jpg %}
+{% image https://i.vgy.me/9jwXu3.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}压缩包图片？{% endtip %}
@@ -786,7 +786,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/recursion`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level39.jpg %}
+{% image https://i.vgy.me/8xaPKo.jpg %}
 不是我认识的图，直接扔给百度识图
 {% folding 答案  %}
 {% tip success %}`trollface`{% endtip %}
@@ -797,7 +797,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/trollface`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level40.jpg %}
+{% image https://i.vgy.me/UB41Ab.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}找规律{% endtip %}
@@ -819,7 +819,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/chlorine`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level41.jpg %}
+{% image https://i.vgy.me/USDLts.jpg %}
 谷歌和华为的合作产品？
 {% folding 答案  %}
 这个合作项目叫做`Google Nexus 6P`
@@ -830,7 +830,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/nexus_6p`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level42.jpg %}
+{% image https://i.vgy.me/4z0OVA.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}小学时候信息课的回忆{% endtip %}
@@ -843,6 +843,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 <!-- endtab -->
 <!-- tab 提示 4 -->
 {% tip key %}海龟+手里剑？忍者神龟！{% endtip %}
+{% image https://i.vgy.me/jt1Y6N.jpg %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -855,10 +856,10 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/ninja_turtle`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level43.jpg %}
+{% image https://i.vgy.me/0ispy1.jpg %}
 黑？把图片拉下来，亮度和对比度拉满！
 {% folding 答案  %}
-{% image ../../../img/NazoGame/level43-answer.jpg %}
+{% image https://i.vgy.me/4mdrI1.jpg %}
 {% tip success %}`Dee.html`{% endtip %}
 {% endfolding %}
 
@@ -866,7 +867,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/Dee.html`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level44.jpg %}
+{% image https://i.vgy.me/v24Kr9.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}某种语言{% endtip %}
@@ -887,7 +888,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/poker`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level45.jpg %}
+{% image https://i.vgy.me/vthbQC.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}百度一下？{% endtip %}
@@ -913,7 +914,7 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/sigma`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level46.jpg %}
+{% image https://i.vgy.me/FrPbuz.jpg %}
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
 {% tip key %}`索尼克`（`sonic`）{% endtip %}
@@ -931,11 +932,11 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/sanic`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level47.jpg %}
+{% image https://i.vgy.me/MBbFKc.jpg %}
 百度识图？
 {% folding 答案  %}
 `Excel2000`的彩蛋，具体见链接：
-{% link stinger,https://zhuanlan.zhihu.com/p/398713790 , ../../../img/link.png %}
+{% link stinger,https://zhuanlan.zhihu.com/p/398713790 , https://i.vgy.me/2bEeMr.png %}
 话说这种彩蛋是怎么被发现的啊啊啊啊啊（震惊）
 {% tip success %}`2000wc`{% endtip %}
 {% endfolding %}
@@ -944,7 +945,7 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/2000wc`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level48.jpg %}
+{% image https://i.vgy.me/Grp2oK.jpg %}
 这东西怎么一秒跳一次。
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -967,7 +968,7 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/time_stamp`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level49.jpg %}
+{% image https://i.vgy.me/rKXaqa.jpg %}
 这是整个游戏操作最多的一关（如果你没有`Sourcetree`这类`git`管理软件）。直接上结论（请提前安装好`Git`）：
  - 下载图片，将后缀名改为`.zip`
  - 解压到合适的地方
@@ -976,7 +977,7 @@ The answer is : sigma
  - 使用`git reset --hard 提交序列号`回滚提交。
  - 重复2次得到正确的`answer.txt`
 但是，如果你安装了`Sourcetree`，可以直接秒杀这一题：
-{% image ../../../img/NazoGame/level49-answer.jpg %}
+{% image https://i.vgy.me/P5zIU7.jpg %}
 {% folding 答案  %}
 {% tip success %}`gitisawesome`{% endtip %}
 这操作确实"awesome"
@@ -986,7 +987,7 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/gitisawesome`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level50.jpg %}
+{% image https://i.vgy.me/CpQQ4s.jpg %}
 终于有官方提示了！
 {% tabs 提示, -1 %}
 <!-- tab 提示 1 -->
@@ -994,7 +995,7 @@ The answer is : sigma
 <!-- endtab -->
 <!-- tab 提示 2 -->
 {% tip key %}去某知名音乐网站上搜索一下{% endtip %}
-{% link /javascript,https://music.163.com/#/song?id=455920556 , ../../../img/link.png %}
+{% link /javascript,https://music.163.com/#/song?id=455920556 , https://i.vgy.me/2bEeMr.png %}
 <!-- endtab -->
 {% endtabs %}
 
@@ -1006,18 +1007,18 @@ The answer is : sigma
 {% folding 关卡地址 %}
 {% note info modern %}`https://nazo.one-story.cn/w1-2`{% endnote %}
 {% endfolding %}
-{% image ../../../img/NazoGame/level51.jpg %}
+{% image https://i.vgy.me/cR2DMA.jpg %}
 __恭喜通关！__
 
 ## 彩蛋
 
 ### 交流群
 我们回到第十关、第二十关、第三十关、第四十关、第五十关。
-{% image ../../../img/NazoGame/level10.jpg %}
-{% image ../../../img/NazoGame/level20.jpg %}
-{% image ../../../img/NazoGame/level30.jpg %}
-{% image ../../../img/NazoGame/level40.jpg %}
-{% image ../../../img/NazoGame/level50.jpg %}
+{% image https://i.vgy.me/jGKHOD.jpg %}
+{% image https://i.vgy.me/udiyaj.jpg %}
+{% image https://i.vgy.me/vvdbOE.jpg %}
+{% image https://i.vgy.me/UB41Ab.jpg %}
+{% image https://i.vgy.me/CpQQ4s.jpg %}
 提取提示中`[]`框住的部分
 
  - `https://nazo.one-story.cn/q.html`
@@ -1026,9 +1027,9 @@ __恭喜通关！__
  - lsb!
  - 看似纯白非纯白,基本隐写不难筛,待我拿到函数式,谜题自然解开来.
 首先进入给出的网址：
-{% link 交流群网址,https://nazo.one-story.cn/q.html , ../../../img/link.png %}
+{% link 交流群网址,https://nazo.one-story.cn/q.html , https://i.vgy.me/2bEeMr.png %}
 得到如下图片：
-{% image ../../../img/NazoGame/QQgroup.jpg %}
+{% image https://i.vgy.me/zBPzxi.jpg %}
 很明显左下角的`0`不是字母
 `lsb`指的是`最低有效位`（但我不知道有啥用）
 这种类隐写术直接上“刑具”：`Stegsolve`（安装方法自行上网搜索）
@@ -1046,18 +1047,18 @@ __恭喜通关！__
 在`PC`打开`报告`，一直下拉，背景会越来越黑，但是有一种直觉告诉你：这个报告有东西瞒着我。
 报告中强调“请使用PC寻找”，那么顺理成章地，我们打开`Console Log`,发现了一堆数字。
 根据传统艺能，我们找到调用的`js`文件，
-{% image ../../../img/NazoGame/stinger-console.jpg %}
+{% image https://i.vgy.me/52jT6n.jpg %}
 发现“罪魁祸首”：
-{% image ../../../img/NazoGame/stinger-script.jpg %}
+{% image https://i.vgy.me/AOa8Hs.jpg %}
 发现彩蛋网址`www.thenazo.com`
 {% tip warning faa-horizontal animated %}
 警告！请不要在公共场合打开该网址，否则造成的后果与本站无关！
 警告！请不要在公共场合打开该网址，否则造成的后果与本站无关！
 警告！请不要在公共场合打开该网址，否则造成的后果与本站无关！
 以下是该域名的`whois`数据，请再次考虑是否打开该网址：
-{% image ../../../img/NazoGame/stinger-whois.jpg %}
+{% image https://i.vgy.me/21XH02.jpg %}
 {% endtip %}
-猜测这个网址应该是开发组对下一个`NazoGame`项目的规划，但是似乎已经落灰了~
+猜测这个网址应该是开发组对下一个`NazoGame`项目的规划，但是似乎已经{% span yellow, 黄 %}了~
 
 # 全文完
 完结撒花，写了我整整两天。
