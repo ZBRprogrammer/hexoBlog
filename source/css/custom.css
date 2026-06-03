@@ -1,0 +1,38 @@
+/* /source/css/custom.css */
+
+/* 1. 定义 Ma Shan Zheng 字体，且只应用于中文字符（CJK 统一表意文字） */
+@font-face {
+  font-family: 'Ma Shan Zheng CN';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ma-shan-zheng@latest/files/ma-shan-zheng-chinese-simplified-400-normal.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/npm/@fontsource/ma-shan-zheng@latest/files/ma-shan-zheng-chinese-simplified-400-normal.woff') format('woff');
+  /* 关键：限定只对简体中文常用汉字范围生效 */
+  unicode-range: U+4E00-9FFF,      /* 基本汉字 */
+                  U+3400-4DBF,      /* 扩展A */
+                  U+20000-2A6DF,    /* 扩展B（部分生僻字，可选） */
+                  U+3000-303F,      /* CJK 符号和标点 */
+                  U+FF00-FFEF;      /* 全角ASCII（全角英数、标点） */
+}
+
+/* 2. 定义 JetBrains Mono 用于所有字符（作为默认字体） */
+@font-face {
+  font-family: 'JetBrains Mono Fallback';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono@5.2.8/files/jetbrains-mono-latin-400-normal.woff2') format('woff2');
+  /* 不设 unicode-range，表示覆盖所有字符（作为后备） */
+}
+
+/* 3. 应用到 body（或者 .post-content 等具体容器） */
+body {
+  font-family: 'Ma Shan Zheng CN', 'JetBrains Mono Fallback', 'JetBrains Mono', 
+               system-ui, 'Microsoft Yahei', 'Segoe UI', Arial, sans-serif;
+}
+
+/* 如果你想保留代码块保持等宽（JetBrains Mono），且不需要中文手写，可以不应用上述规则 */
+code, pre, .codeblock {
+  font-family: 'JetBrains Mono', Menlo, Monaco, Consolas, monospace;
+}
