@@ -3,12 +3,15 @@ title: Nazo Game 攻略
 date: 2025/10/06
 update: 2026/06/02
 description: NazoGame解题全集（含彩蛋）
+notebook: Puzzle
+layout: note
 categories: 
-	- Puzzle
+    - Puzzle
 tags: 
-	- Puzzle
+    - Puzzle
 keywords: 
-	 - [NazoGame, puzzles]
+    - NazoGame
+    - puzzles
 cover: https://i.vgy.me/ukfZEx.jpg
 top_img: https://i.vgy.me/OtDqqe.jpg
 highlight_shrink: false
@@ -44,6 +47,7 @@ highlight_shrink: false
 以下内容分关卡展开，可以自行跳转相应的关卡
 
 ### 第一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/nazo-1` %}
 {% endfolding %}
@@ -55,6 +59,7 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第二关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/nazo-2` %}
 {% endfolding %}
@@ -66,6 +71,7 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第三关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/nazo-3` %}
 {% endfolding %}
@@ -78,8 +84,8 @@ highlight_shrink: false
 {% note 以后的题目都是这样操作 %}
 {% endfolding %}
 
-
 ### 第四关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/nazo-4` %}
 {% endfolding %}
@@ -91,16 +97,21 @@ highlight_shrink: false
 那这关怎么解呢？
 
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 回忆一下 "规则"
 
 <!-- folder 提示 2 -->
+
 为什么要求用`PC`游玩呢？
 
 <!-- folder 提示 3 -->
+
 打开`PC`端特有的`开发人员工具`看看呢
 
 <!-- folder 提示 4 -->
+
 查看浏览器`Console Log`（或`控制台`）
 {% image https://i.vgy.me/3cThIj.jpg  ratio:1920/936 %}
 
@@ -112,16 +123,20 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第五关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/level-five` %}
 {% endfolding %}
 {% image https://i.vgy.me/w6fVlM.jpg  ratio:1920/937 %}
 
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 `javascript`
 
 <!-- folder 提示 2 -->
+
 百度/bing/google一下，你就知道~
 
 {% endfolders %}
@@ -132,18 +147,23 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第六关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/false` %}
 {% endfolding %}
 {% image https://i.vgy.me/TOLmWr.jpg  ratio:1920/934 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 4个字母的笔画
 
 <!-- folder 提示 2 -->
+
 小键盘
 
 <!-- folder 提示 3 -->
+
 有两个不是字母
 
 {% endfolders %}
@@ -153,15 +173,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第七关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/h1z1` %}
 {% endfolding %}
 {% image https://i.vgy.me/13Nqqc.jpg  ratio:1920/932 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 关注字形
 
 <!-- folder 提示 2 -->
+
 关注对称性
 
 {% endfolders %}
@@ -172,18 +196,23 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第八关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/otu` %}
 {% endfolding %}
 {% image https://i.vgy.me/EeuUoG.jpg  ratio:1920/937 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 某个影视形象
 
 <!-- folder 提示 2 -->
+
 来自官方提示`It's Bird`
 
 <!-- folder 提示 3 -->
+
 音乐剧《It's a Bird... It's a Plane... It's Superman!》
 
 {% endfolders %}
@@ -193,21 +222,27 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第九关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/superman` %}
 {% endfolding %}
 {% image https://i.vgy.me/lF71pP.jpg  ratio:1920/937 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 颜色
 
 <!-- folder 提示 2 -->
+
 `开发人员工具`
 
 <!-- folder 提示 3 -->
+
 `Element`（或者`元素`）
 
 <!-- folder 提示 4 -->
+
 十六进制颜色表示法：`#xxxxxx`
 
 {% endfolders %}
@@ -218,19 +253,24 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/66ccff` %}
 {% endfolding %}
 {% image https://i.vgy.me/jGKHOD.jpg  ratio:1920/936 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 反过来念
 
 <!-- folder 提示 2 -->
+
 `开发人员工具`中的`Console Log`
 {% image https://i.vgy.me/0338vr.jpg  ratio:1920/932 %}
 
 <!-- folder 提示 3 -->
+
 反过来写
 
 {% endfolders %}
@@ -240,21 +280,25 @@ highlight_shrink: false
 {% note "溯源：这关本来的题面是`goL elosnoC uhihZ`，但是现在的知乎`Console Log`改版了，于是这一关的提示就变成了`这里本来有个提示的，但是现在没有了`" %}
 {% endfolding %}
 
-
 ### 第十一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/erih` %}
 {% endfolding %}
 {% image https://i.vgy.me/kqIxxC.jpg  ratio:1920/934 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 去过`Bilibili`吗？分享过视频吗？
 
 <!-- folder 提示 2 -->
+
 官方提示中的`XX`（可能）不止一个，但都是很正经的国外网站，其中一个在2010年1月13日撤出中国市场
 {% link https://baike.baidu.com/item/%E8%B0%B7%E6%AD%8C%E4%BA%8B%E4%BB%B6/6971355 百度百科 icon:https://i.vgy.me/2bEeMr.png %}
 
 <!-- folder 提示 3 -->
+
 由于`YouTube`上的搜索结果过于离谱，这里给出原视频链接（如果你可以打开的话）
 {% link https://www.youtube.com/watch?v=zNGQXChu9P8 Video icon:https://i.vgy.me/2bEeMr.png %}
 
@@ -265,15 +309,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十二关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/fantastic` %}
 {% endfolding %}
 {% image https://i.vgy.me/w771HY.jpg  ratio:1920/935 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 学习过地理的人应该能一眼丁真吧
 
 <!-- folder 提示 2 -->
+
 打开某在线地图
 {% image https://i.vgy.me/YnH7DX.jpg  ratio:1920/932 %}
 
@@ -283,23 +331,28 @@ highlight_shrink: false
 `Statue_of_Liberty`（大小写不敏感）
 {% endfolding %}
 
-
 ### 第十三关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/statue_of_liberty` %}
 {% endfolding %}
 {% image https://i.vgy.me/iOP1AN.jpg  ratio:1920/935 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 这是一些单词的简写
 
 <!-- folder 提示 2 -->
+
 2 levels back background music(BGM in short)
 
 <!-- folder 提示 3 -->
+
 请回到那个视频
 
 <!-- folder 提示 4 -->
+
 看看评论区吧
 
 {% endfolders %}
@@ -309,17 +362,20 @@ highlight_shrink: false
 `Longhorn`（大小写不敏感）
 {% endfolding %}
 
-
 ### 第十四关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/longhorn` %}
 {% endfolding %}
 {% image https://i.vgy.me/C2quTM.jpg  ratio:1920/934 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 官方提示：`Assembly directive`（汇编伪指令）
 
 <!-- folder 提示 2 -->
+
 `jump $`
 
 {% endfolders %}
@@ -330,15 +386,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十五关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/loop` %}
 {% endfolding %}
 {% image https://i.vgy.me/H20njt.jpg  ratio:1920/1040 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 谜底自在谜面中
 
 <!-- folder 提示 2 -->
+
 人不能总是低头看大地，也需要仰望星空
 
 {% endfolders %}
@@ -349,15 +409,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十六关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/awesome` %}
 {% endfolding %}
 {% image https://i.vgy.me/s4C0UY.jpg  ratio:1920/936 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 本题来源于某影视作品
 
 <!-- folder 提示 2 -->
+
 《生活大爆炸》
 
 {% endfolders %}
@@ -368,15 +432,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十七关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/number73` %}
 {% endfolding %}
 {% image https://i.vgy.me/Pv1eyg.jpg  ratio:1920/933 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 更精确地说，应该是`撤销`
 
 <!-- folder 提示 2 -->
+
 数据库术语
 
 {% endfolders %}
@@ -387,16 +455,20 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十八关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/undo` %}
 {% endfolding %}
 {% image https://i.vgy.me/eZ7L7J.jpg  ratio:1920/932 %}
 又来一遍？不能还是`Undo`啊
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 在一般的文本编辑器中，如何实现`撤销`操作
 
 <!-- folder 提示 2 -->
+
 快捷键
 
 {% endfolders %}
@@ -406,15 +478,19 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第十九关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/brainfuck` %}
 {% endfolding %}
 {% image https://i.vgy.me/LUi844.jpg  ratio:1920/1003 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 再抬头看看？
 
 <!-- folder 提示 2 -->
+
 `brainfuck`是一种编程语言（很神奇吧）
 尝试自己解码？
 {% link https://wiki.mistarg.cn/index.php/Brainfuck/Ook/shortOok wiki icon:https://i.vgy.me/2bEeMr.png %}
@@ -425,6 +501,7 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第二十关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/she` %}
 {% endfolding %}
@@ -435,18 +512,23 @@ highlight_shrink: false
 {% endfolding %}
 
 ### 第二十一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/moto_360` %}
 {% endfolding %}
 {% image https://i.vgy.me/Jn3tqA.jpg  ratio:1920/934 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 $8 \times 8 = 64$，黑白相间的格子……
 
 <!-- folder 提示 2 -->
+
 某种棋类游戏
 
 <!-- folder 提示 2 -->
+
 国际象棋的棋子
 
 {% endfolders %}
@@ -457,18 +539,23 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十二关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/knight` %}
 {% endfolding %}
 {% image https://i.vgy.me/31g8He.jpg  ratio:1920/929 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 学过前端开发的应该知道
 
 <!-- folder 提示 2 -->
+
 需要你调整窗口大小
 
 <!-- folder 提示 3 -->
+
 将浏览器窗口调整到宽度$\lt 320\text{px}$
 
 {% endfolders %}
@@ -479,6 +566,7 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十三关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/toborrm` %}
 {% endfolding %}
@@ -489,21 +577,27 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十四关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/fsociety` %}
 {% endfolding %}
 {% image https://i.vgy.me/qrQ23X.jpg  ratio:1920/934 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 8个字母
 
 <!-- folder 提示 2 -->
+
 和音乐相关
 
 <!-- folder 提示 3 -->
+
 这是一首歌的简谱
 
 <!-- folder 提示 4 -->
+
 试着唱出来？
 
 {% endfolders %}
@@ -513,18 +607,23 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十五关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/birthday` %}
 {% endfolding %}
 {% image https://i.vgy.me/oHVIg0.jpg  ratio:1920/935 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 如果你见过一种有意义的乱码，你应该知道怎么做
 
 <!-- folder 提示 2 -->
+
 这道题和用base64将一段话编码本质一样
 
 <!-- folder 提示 3 -->
+
 将它扔到`Console Log`（或者`控制台`）中看看？
 
 {% endfolders %}
@@ -540,18 +639,23 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十六关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/encode` %}
 {% endfolding %}
 {% image https://i.vgy.me/ZXvBlM.jpg  ratio:1920/936 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 十年之前~
 
 <!-- folder 提示 2 -->
+
 如果你还留存着功能机，拿出来看看
 
 <!-- folder 提示 3 -->
+
 功能机的键盘及使用方法
 
 {% endfolders %}
@@ -561,19 +665,24 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十七关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/feelings` %}
 {% endfolding %}
 {% image https://i.vgy.me/RYq9nu.jpg  ratio:1920/935 %}
 别看到二进制码就急着翻译……
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 本题与二进制无关
 
 <!-- folder 提示 2 -->
+
 本题和$7 \times 7 = 49$有关
 
 <!-- folder 提示 3 -->
+
 在纸上画出来？
 
 {% endfolders %}
@@ -585,18 +694,23 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十八关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/pac-man` %}
 {% endfolding %}
 {% image https://i.vgy.me/Qe26q8.jpg  ratio:1920/937 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 百度搜索一下
 
 <!-- folder 提示 2 -->
+
 这是某商业品牌，看看它的广告
 
 <!-- folder 提示 3 -->
+
 找找它的客服电话
 
 {% endfolders %}
@@ -606,6 +720,7 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第二十九关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/4008208820` %}
 {% endfolding %}
@@ -616,18 +731,23 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第三十关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/4008208822` %}
 {% endfolding %}
 {% image https://i.vgy.me/vvdbOE.jpg  ratio:1920/937 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 这不是16进制
 
 <!-- folder 提示 2 -->
+
 这是`Unicode`编码
 
 <!-- folder 提示 3 -->
+
 网站不能输入中文，请翻译成英文
 
 {% endfolders %}
@@ -638,16 +758,20 @@ $8 \times 8 = 64$，黑白相间的格子……
 {% endfolding %}
 
 ### 第三十一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/overwatch` %}
 {% endfolding %}
 {% image https://i.vgy.me/4oLWGe.jpg  ratio:1920/933 %}
 中国第一只企鹅的昵称？
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 某知名软件
 
 <!-- folder 提示 2 -->
+
 QQ第一位用户的昵称
 
 {% endfolders %}
@@ -658,19 +782,24 @@ QQ第一位用户的昵称
 {% endfolding %}
 
 ### 第三十二关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/pony` %}
 {% endfolding %}
 {% image https://i.vgy.me/TOnIxV.jpg  ratio:1920/936 %}
 凯撒密码？
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 回顾一下密码发展史
 
 <!-- folder 提示 2 -->
+
 凯撒密码$\to$维吉尼亚密码
 
 <!-- folder 提示 3 -->
+
 `PBQPXCQ`是密文，`PONY`是明文
 
 {% endfolders %}
@@ -682,6 +811,7 @@ QQ第一位用户的昵称
 {% endfolding %}
 
 ### 第三十三关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/andriod` %}
 {% endfolding %}
@@ -692,32 +822,36 @@ QQ第一位用户的昵称
 {% endfolding %}
 
 ### 第三十四关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/android` %}
 {% endfolding %}
 {% image https://i.vgy.me/HvOttU.jpg  ratio:1920/935 %}
 百度识图：
- - 什么干扰，我还以为是网络不好呢。
- - 跟我的识别系统说去吧！
- - 图生啊能不能放过我这一次~
-{% folding 答案 %}
-百度识图得到`ljn`
-`ljn`
-{% endfolding %}
+
+- 什么干扰，我还以为是网络不好呢。
+- 跟我的识别系统说去吧！
+- 图生啊能不能放过我这一次~
+  {% folding 答案 %}
+  百度识图得到`ljn`
+  `ljn`
+  {% endfolding %}
 
 ### 第三十五关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/ljn` %}
 {% endfolding %}
 {% image https://i.vgy.me/zNRcXb.jpg  ratio:1920/936 %}
 在互联网上找到自己？
 {% folders %}
+
 <!-- folder 提示 1 -->
 
 笑话一则：某网络小白与一网友发生冲突，大放厥词曰：”我已经找到你的IP地址了，等着被DDOS吧！“对方等了很久，无事发生。经询问得知他攻击的IP是`192.168.0.1`。
 
-
 <!-- folder 提示 2 -->
+
 很明显网址没有`.`这个字符，寻找一些替代品吧
 
 {% endfolders %}
@@ -728,15 +862,19 @@ QQ第一位用户的昵称
 {% endfolding %}
 
 ### 第三十六关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/localhost` %}
 {% endfolding %}
 {% image https://i.vgy.me/Btl4QS.jpg  ratio:1920/937 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 这个人是谁，搜一下
 
 <!-- folder 提示 2 -->
+
 Notch's death
 
 {% endfolders %}
@@ -747,6 +885,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第三十七关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/apple` %}
 {% endfolding %}
@@ -759,18 +898,23 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第三十八关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/supercalifragilisticexpialidocious` %}
 {% endfolding %}
 {% image https://i.vgy.me/9jwXu3.jpg  ratio:1920/933 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 压缩包图片？
 
 <!-- folder 提示 2 -->
+
 把图片下载下来，把后缀名改为压缩包`zip`
 
 <!-- folder 提示 3 -->
+
 打开里面的文件以及里面的网址
 
 {% endfolders %}
@@ -781,6 +925,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第三十九关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/recursion` %}
 {% endfolding %}
@@ -792,18 +937,23 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/trollface` %}
 {% endfolding %}
 {% image https://i.vgy.me/UB41Ab.jpg  ratio:1920/930 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 找规律
 
 <!-- folder 提示 2 -->
+
 这是某个规律性事物的局部
 
 <!-- folder 提示 3 -->
+
 元素周期表
 
 {% endfolders %}
@@ -814,6 +964,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/chlorine` %}
 {% endfolding %}
@@ -825,21 +976,27 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十二关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/nexus_6p` %}
 {% endfolding %}
 {% image https://i.vgy.me/4z0OVA.jpg  ratio:1920/933 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 小学时候信息课的回忆
 
 <!-- folder 提示 2 -->
+
 `Python`中的`turtle`库有相同的用法
 
 <!-- folder 提示 3 -->
+
 `logo`语言的海龟画图
 
 <!-- folder 提示 4 -->
+
 海龟+手里剑？忍者神龟！
 {% image https://i.vgy.me/jt1Y6N.jpg  ratio:654/671 %}
 
@@ -851,6 +1008,7 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十三关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/ninja_turtle` %}
 {% endfolding %}
@@ -862,18 +1020,23 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十四关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/Dee.html` %}
 {% endfolding %}
 {% image https://i.vgy.me/v24Kr9.jpg  ratio:1920/935 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 某种语言
 
 <!-- folder 提示 2 -->
+
 某种旗帜
 
 <!-- folder 提示 3 -->
+
 航海信号旗
 
 {% endfolders %}
@@ -883,41 +1046,52 @@ Minecraft老梗：当你使用Notch这个名字进入Minecraft并死亡，会掉
 {% endfolding %}
 
 ### 第四十五关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/poker` %}
 {% endfolding %}
 {% image https://i.vgy.me/vthbQC.jpg  ratio:1920/930 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 百度一下？
 
 <!-- folder 提示 2 -->
+
 某种语言
 
 <!-- folder 提示 3 -->
+
 `Leet`语言，自行翻译一下
 
 {% endfolders %}
 
 {% folding 答案 %}
 翻译结果：
+
 ```
 This is an example of leet at its finest
 The answer is : sigma
 ```
+
 `sigma`
 {% endfolding %}
 
 ### 第四十六关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/sigma` %}
 {% endfolding %}
 {% image https://i.vgy.me/FrPbuz.jpg  ratio:1920/932 %}
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 `索尼克`（`sonic`）
 
 <!-- folder 提示 2 -->
+
 是梗图，搜一下
 
 {% endfolders %}
@@ -927,6 +1101,7 @@ The answer is : sigma
 {% endfolding %}
 
 ### 第四十七关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/sanic` %}
 {% endfolding %}
@@ -940,19 +1115,24 @@ The answer is : sigma
 {% endfolding %}
 
 ### 第四十八关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/2000wc` %}
 {% endfolding %}
 {% image https://i.vgy.me/Grp2oK.jpg  ratio:1920/935 %}
 这东西怎么一秒跳一次。
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 和时间相关
 
 <!-- folder 提示 2 -->
+
 它即将达到它的上限
 
 <!-- folder 提示 3 -->
+
 来自`Unix`操作系统
 
 {% endfolders %}
@@ -963,35 +1143,41 @@ The answer is : sigma
 {% endfolding %}
 
 ### 第四十九关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/time_stamp` %}
 {% endfolding %}
 {% image https://i.vgy.me/rKXaqa.jpg  ratio:1920/935 %}
 这是整个游戏操作最多的一关（如果你没有`Sourcetree`这类`git`管理软件）。直接上结论（请提前安装好`Git`）：
- - 下载图片，将后缀名改为`.zip`
- - 解压到合适的地方
- - 发现`answer.txt`，打开发现被骗
- - 使用`git log --stat`查看历史记录，发现有3次提交
- - 使用`git reset --hard 提交序列号`回滚提交。
- - 重复2次得到正确的`answer.txt`
-但是，如果你安装了`Sourcetree`，可以直接秒杀这一题：
-{% image https://i.vgy.me/P5zIU7.jpg  ratio:1204/800 %}
-{% folding 答案 %}
-`gitisawesome`
-这操作确实"awesome"
-{% endfolding %}
+
+- 下载图片，将后缀名改为`.zip`
+- 解压到合适的地方
+- 发现`answer.txt`，打开发现被骗
+- 使用`git log --stat`查看历史记录，发现有3次提交
+- 使用`git reset --hard 提交序列号`回滚提交。
+- 重复2次得到正确的`answer.txt`
+  但是，如果你安装了`Sourcetree`，可以直接秒杀这一题：
+  {% image https://i.vgy.me/P5zIU7.jpg  ratio:1204/800 %}
+  {% folding 答案 %}
+  `gitisawesome`
+  这操作确实"awesome"
+  {% endfolding %}
 
 ### 第五十关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/gitisawesome` %}
 {% endfolding %}
 {% image https://i.vgy.me/CpQQ4s.jpg  ratio:1920/936 %}
 终于有官方提示了！
 {% folders %}
+
 <!-- folder 提示 1 -->
+
 官方提示：音乐相关
 
 <!-- folder 提示 2 -->
+
 去某知名音乐网站上搜索一下
 {% link https://music.163.com/#/song?id=455920556 /javascript icon:https://i.vgy.me/2bEeMr.png %}
 
@@ -1002,6 +1188,7 @@ The answer is : sigma
 {% endfolding %}
 
 ### 第五十一关
+
 {% folding 关卡地址 %}
 {% note `https://nazo.one-story.cn/w1-2` %}
 {% endfolding %}
@@ -1011,6 +1198,7 @@ __恭喜通关！__
 ## 彩蛋
 
 ### 交流群
+
 我们回到第十关、第二十关、第三十关、第四十关、第五十关。
 {% image https://i.vgy.me/jGKHOD.jpg  ratio:1920/936 %}
 {% image https://i.vgy.me/udiyaj.jpg  ratio:1920/934 %}
@@ -1019,21 +1207,21 @@ __恭喜通关！__
 {% image https://i.vgy.me/CpQQ4s.jpg  ratio:1920/936 %}
 提取提示中`[]`框住的部分
 
- - `https://nazo.one-story.cn/q.html`
- - 有一个明显不是字母!
- - 图片背景并非全部纯白
- - lsb!
- - 看似纯白非纯白,基本隐写不难筛,待我拿到函数式,谜题自然解开来.
-首先进入给出的网址：
-{% link https://nazo.one-story.cn/q.html 交流群网址 icon:https://i.vgy.me/2bEeMr.png %}
-得到如下图片：
-{% image https://i.vgy.me/zBPzxi.jpg  ratio:380/380 %}
-很明显左下角的`0`不是字母
-`lsb`指的是`最低有效位`（但我不知道有啥用）
-这种类隐写术直接上“刑具”：`Stegsolve`（安装方法自行上网搜索）
-将图片导入，转到`Gray bits`
-出现了！$y = 2x + 1$！
-按照$x$递增的顺序读取$x,y$坐标，得到`EXCELLENT`，输入下方得到群号`216526508`
+- `https://nazo.one-story.cn/q.html`
+- 有一个明显不是字母!
+- 图片背景并非全部纯白
+- lsb!
+- 看似纯白非纯白,基本隐写不难筛,待我拿到函数式,谜题自然解开来.
+  首先进入给出的网址：
+  {% link https://nazo.one-story.cn/q.html 交流群网址 icon:https://i.vgy.me/2bEeMr.png %}
+  得到如下图片：
+  {% image https://i.vgy.me/zBPzxi.jpg  ratio:380/380 %}
+  很明显左下角的`0`不是字母
+  `lsb`指的是`最低有效位`（但我不知道有啥用）
+  这种类隐写术直接上“刑具”：`Stegsolve`（安装方法自行上网搜索）
+  将图片导入，转到`Gray bits`
+  出现了！$y = 2x + 1$！
+  按照$x$递增的顺序读取$x,y$坐标，得到`EXCELLENT`，输入下方得到群号`216526508`
 
 {% folding 歪门邪道 %}
 将这张图喂给deepseek，让它分析，它会直接给出$y = 2x + 1$这个结果，原因不详，初步推测文件中直接写入了$y = 2x + 1$
@@ -1060,4 +1248,5 @@ __恭喜通关！__
 猜测这个网址应该是开发组对下一个`NazoGame`项目的规划，但是似乎已经“黄”了~
 
 # 全文完
+
 完结撒花，写了我整整两天。

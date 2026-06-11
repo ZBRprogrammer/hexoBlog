@@ -1,0 +1,19 @@
+name: Puzzle
+title: Puzzle Games
+icon: /img/link.png
+description: 一些网络谜题（游戏）
+base_dir: /notes/
+
+sort: 1
+per_page: 10
+order_by: -updated
+license: true
+share: true
+
+menu_id: notes
+# 笔记列表页的左/右侧栏
+# leftbar: [tagtree, recent]
+# rightbar: []
+# 笔记页的左/右侧栏
+# note_leftbar: [tagtree, recent]
+# note_rightbar: [toc]
