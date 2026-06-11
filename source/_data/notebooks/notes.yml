@@ -1,7 +1,7 @@
-name: Puzzle
-title: Puzzle Games
+name: 笔记
+title: ZomBromine的笔记
 icon: /img/link.png
-description: 一些网络谜题（游戏）
+description: 随便记点啥
 base_dir: /notes/
 
 sort: 1

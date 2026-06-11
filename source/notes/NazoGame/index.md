@@ -3,10 +3,7 @@ title: Nazo Game 攻略
 date: 2025/10/06
 update: 2026/06/02
 description: NazoGame解题全集（含彩蛋）
-notebook: Puzzle
-layout: note
-categories: 
-    - Puzzle
+notebook: notes
 tags: 
     - Puzzle
 keywords: 
