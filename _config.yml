@@ -105,6 +105,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: stellar
 
+markdown_it_plus:
+  rawLaTeX: false  # 确保此项为 false，让渲染器以标准的 $$ 语法输出
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
