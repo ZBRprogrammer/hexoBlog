@@ -343,4 +343,4 @@ end struct;
 ```
 
 # 文章完
-你完成了Computer-Logic_gates章节！
+你完成了NandGame-Computer-Logic_gates章节！
