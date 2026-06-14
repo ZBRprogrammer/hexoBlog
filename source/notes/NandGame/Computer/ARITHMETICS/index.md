@@ -4,9 +4,10 @@ date: 2026/06/13
 update: 2026/06/13
 description: NandGame解题全集（Computer部分）
 notebook: notes
+katex: true
 tags: 
     - Puzzle
-    - NandGame/Computer/ARITHMETICS
+    - NandGame/Computer/Arithmetics
 keywords: 
     - NandGame
     - puzzles
@@ -316,5 +317,84 @@ end structural;
 ```
 > 恭喜，你已经完成了基本四则运算的元件。
 > 现代处理器支持更复杂的运算，比如乘法、除法和浮点数运算， 但在这个游戏里，我们尽可能保持简单，做一个最简的、能工作的处理器。
+
+## Equal to Zero
+{% tabs align:center %}
+<!-- tab English -->
+Description: 
+Should output 1 if and only if all bits in the input are 0.
+<!-- tab 中文 -->
+任务描述：
+如果输入的所有位都是0，输出1。
+{% endtabs %}
+
+换句话说，当有任意一位为1时，输出0.
+```VHDL
+-- 实体：Equal to Zero
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Equal_to_zero is
+    port (
+        b3, b2, b1, b0 : in  std_logic;
+        y    : out std_logic
+    );
+end Equal_to_zero;
+
+architecture structural of Equal_to_zero is
+begin
+    y <= not ((b3 or b2) or (b1 or b0))
+end structural;
+```
+> 同样的方法很容易延申到16位数。因此我们也做出了检查16位数是否为0的元件。
+
+## Less than Zero
+{% tabs align:center %}
+<!-- tab English -->
+Description: 
+Outputs 1 if the input as a 16-bit number is negative
+Specification:
+|Input|Output|
+|---|---|
+|input ≥ 0|0|
+|input < 0|1|
+
+A number is considered less than zero if bit 15 is 1.
+**Bit numbering**
+Bits are numbered from right to left, starting with 0 as the rightmost bit. So bit 15 is the leftmost bit in a 16-bit word.
+<!-- tab 中文 -->
+任务描述：
+如果作为输入的16位数是负数，输出1。
+要求：
+|输入|输出|
+|-|-|
+|输入 $\le$ 0|0|
+|输入 $\gt$ 0|1|
+
+如果第15位是1，那么这个数就小于0。
+位的序号
+我们将数字的每一位从右往左标上序号。最右边是第0位。因此，在一个16位的字中，最左边一位是第15位。
+{% endtabs %}
+
+依题意做即可
+```VHDL
+-- 实体：Less than Zero
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Less_than_zero is
+    port (
+        A : in  std_logic_vector(15 downto 0);
+        y    : out std_logic
+    );
+end Less_than_zero;
+
+architecture structural of Less_than_zero is
+begin
+    y <= A(0);
+end structural;
+```
+> 同样的方法很容易延申到16位数。因此我们也做出了检查16位数是否为0的元件。
+
 # 文章完
 你通关了NandGame-Computer-Arithmetics章节！

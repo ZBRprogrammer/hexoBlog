@@ -4,6 +4,7 @@ date: 2026/06/12
 update: 2026/06/12
 description: NandGame解题全集（Computer部分）
 notebook: notes
+katex: true
 tags: 
     - Puzzle
     - NandGame/Computer/Logic_gates
